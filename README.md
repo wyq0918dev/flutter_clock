@@ -1,6 +1,6 @@
 # flutter_clock
 
-A new Flutter project.
+使用Flutter框架编写的跨平台时钟应用.
 
 ## Getting Started
 
